@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#28AFA2</color>
+    <color name="colorPrimaryDark">#229388</color>
+    <color name="colorAccent">#011627</color>
+
+    <color name="colorPizzRed">#e71d36</color>
+    <color name="colorPizzYellow">#ff9f1c</color>
+    <color name="colorPizzBlue">#2EC4B6</color>
+    <color name="colorPizzWhite">#FDFFFC</color>
+    <color name="colorPizzBlack">#011627</color>
+    <color name="colorPizzGray">#6D6E6D</color>
+    <!--<color name="colorPrimary">#125688</color>-->
+    <!--<color name="colorPrimary">#1abc9c</color>-->
+    <!--<color name="colorPrimaryDark">#125688</color>-->
+    <!--<color name="colorPrimaryDark">#1abc9c</color>-->
+
+    <!--<color name="textColorPrimary">#FFFFFF</color>-->
+    <!--<color name="textColorPrimary">#9b59b6</color>-->
+    <!--<color name="windowBackground">#FFFFFF</color>-->
+
+    <color name="textColorPrimary">#011627</color>
+    <color name="windowBackground">#FDFFFC</color>
+
+    <!--<color name="navigationBarColor">#000000</color>-->
+    <color name="navigationBarColor">#9b59b6</color>
+    <!--<color name="colorAccent">#c8e8ff</color>-->
+    <!--<color name="colorAccent">#9b59b6</color>-->
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+ >
+
+        <ImageView
+            android:id="@+id/splashscreen"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/points_diet_372_224"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="120dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/linear1"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:background="@drawable/splash_title_shape"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="50dp"
+        >
+
+        <TextView
+            android:layout_height="wrap_content"
+
+            android:text="النقاط"
+            android:layout_width="wrap_content"
+            android:id="@+id/textView5"
+            style="@style/highlighted_yellow"
+            android:padding="20dp"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+
+            android:text="دايت"
+            android:layout_width="wrap_content"
+            android:id="@+id/textView6"
+            style="@style/highlighted_red"
+            android:padding="20dp"
+            />
+
+    </LinearLayout>
+</RelativeLayout>
+
+    <!--<TextView-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Hello World, splash"/>-->
+

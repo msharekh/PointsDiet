@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="highlighted_red" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_huge</item>
+        <item name="android:textColor">@color/colorPizzRed</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">@color/colorPizzYellow</item>
+        <item name="android:shadowDx">2.0</item>
+        <item name="android:shadowDy">-10.0</item>
+        <item name="android:shadowRadius">10.0</item>
+    </style>
+
+    <dimen name="text_size_huge">30sp</dimen>
+
+    <style name="highlighted_yellow" parent="@android:style/Widget.TextView">
+    <item name="android:textSize">@dimen/text_size_huge</item>
+    <item name="android:textColor">@color/colorPizzYellow</item>
+        <item name="android:shadowColor">@color/colorPizzRed</item>
+        <item name="android:shadowDx">2.0</item>
+        <item name="android:shadowDy">-10.0</item>
+        <item name="android:shadowRadius">10.0</item>
+    <item name="android:textStyle">bold</item>
+</style>
+</resources>

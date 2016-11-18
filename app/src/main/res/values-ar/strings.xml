@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PD6 - رجيم النقاط</string>
+    <string name="showList">اظهر القائمة</string>
+    <string name="Candy">الحلويات</string>
+    <string name="Drink">المشروبات</string>
+    <string name="Fish">الاسماك</string>
+    <string name="Legumes">البقوليات</string>
+    <string name="Meat">اللحوم</string>
+    <string name="Nuts">المكسرات</string>
+    <string name="Other">أخرى</string>
+    <string name="Rice">الارز</string>
+    <string name="Soup">الشوربات</string>
+    <string name="Vegetable">الخضراوات</string>
+    <string name="DairyProducts">مشتقات الحليب</string>
+    <string name="showDish">اظهر الصحن</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="deleteDishElement">حذف</string>
+    <string name="DeleteDialogTitle">حذف عنصر</string>
+    <string name="DeleteDialogMessage">هل انت متاكد انك تريد حذف هذا العنصر؟</string>
+    <string name="showQuota">اظهر حساب الحصة</string>
+    <string name="gender_fld">الجنس</string>
+    <string name="male">ذكر</string>
+    <string name="female">انثى</string>
+    <string name="age_fld">العمر</string>
+    <string name="weight_fld">الوزن (كجم)</string>
+    <string name="hight_fld">الطول (سم)</string>
+    <string name="active_fld">نشاطك اليومي</string>
+    <string name="calculate_quota">احسب</string>
+    <string name="addelement">اضافة</string>
+    <string name="you_have_quota">عدد نقاطك اليومية</string>
+    <string name="you_have_remaining">نقاطك المتبقية</string>
+</resources>

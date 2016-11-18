@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a7883b1fe420f358b9f6c6f7b6f6ea976aed594d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_9013c9c3dd4ff3e124600a9add26f24b4b26cc19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_23405d7857aa978125d176dae9cb03b3adb7e702/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a93b47974327dca0974b75010925e21e4a90190">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8fe765ee28e426a51c21dc171bfbf6bf32aac2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/0.88.2/62142d422aaf1a4619035612aaa396df63bbf974/realm-annotations-0.88.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62142d422aaf1a4619035612aaa396df63bbf974">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-0.88.2_b63c84111c14d08886012218be999e79582625b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/io.realm/realm-android-library/0.88.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43ae35fb2ebd6bac5b6fb4d041c94a35a34dbfc0">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-0.88.2_ba2fdf982c76bc086e562f80ee818cc8c3a21102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce231c042a1e7bb423f33251a486b163b639a8be">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_904e55b40ff63037f79fb92694286320bfcd636d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_34c98f94763847080de0525e6d794f255f3995fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_9fbba07bffbf3126794532747b141d93b78f9313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_f4cfe7ce6c6d8d230107dd47b9900a03580ca307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f007c6a857d70a50823202165e3bbfad291cba65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_d30e27edb7513439ed0eae818eae90bc20acfdd2/classes.dex" />
+    </item>
+
+</items>
