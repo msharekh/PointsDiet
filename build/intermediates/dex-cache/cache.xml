@@ -21,21 +21,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_942c6e4ba50a316ddeb1528aa3707511c87d934b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
         <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_23405d7857aa978125d176dae9cb03b3adb7e702/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2a93b47974327dca0974b75010925e21e4a90190">
-        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8fe765ee28e426a51c21dc171bfbf6bf32aac2ab/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,21 +48,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a93b47974327dca0974b75010925e21e4a90190">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8fe765ee28e426a51c21dc171bfbf6bf32aac2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f56c5e37afdda8cafc0a9b3c7c255d642a4093ae">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f1e417f7d743de8811ed1257e67b079dc6cd91b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e0f5b4d89ba2b77d4a700c43396f0c4856089684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45f509cc6225c0f31ba4d509444c2138e801a09b">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6609bf0b6e579ee9edd120a8f224ac1882dbc9a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/io.realm/realm-android-library/0.88.2/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="43ae35fb2ebd6bac5b6fb4d041c94a35a34dbfc0">
         <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-0.88.2_ba2fdf982c76bc086e562f80ee818cc8c3a21102/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ce231c042a1e7bb423f33251a486b163b639a8be">
-        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_904e55b40ff63037f79fb92694286320bfcd636d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +102,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce231c042a1e7bb423f33251a486b163b639a8be">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_904e55b40ff63037f79fb92694286320bfcd636d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="debf30ce0a7560396b6235edef77e447006454c2">
         <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_9fbba07bffbf3126794532747b141d93b78f9313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_b46aaf0ed34f9e595affba9802c84de6dd6f8bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_200e3f8c8d4285c01fc4b7903873ca02659b285f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_4ef7415941b3aed2f5368c60357473df4b24dbe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_fa677939aa11fb07a8a1a783c2c3a668577299c5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,12 +174,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_fde9e5422a6d425ec88f91c6e3118ed2b5d51a77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
         <dex dex="/Users/msharekh/Documents/Development/Android/PD6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_d30e27edb7513439ed0eae818eae90bc20acfdd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/exploded-aar/io.realm/realm-android-library/0.88.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43ae35fb2ebd6bac5b6fb4d041c94a35a34dbfc0">
+        <dex dex="/Users/msharekh/Documents/Development/Android/PointsDiet/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-0.88.2_439a16f535dfda6bd433bb8192b6e770d6269679/classes.dex" />
     </item>
 
 </items>
